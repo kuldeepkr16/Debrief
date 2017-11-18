@@ -1,0 +1,30 @@
+.parallax { margin-top: 57px;
+ /* Set a specific height */
+ min-height: 400px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+  }
+ #bo.parallax{
+ background-image: url("../images/books.jpg");
+  }
+textarea{
+   border-width: 5px;
+   border-style: double;
+    box-shadow: 1px 1px 10px #808080;
+    display: block;
+  	width: 80%;
+  	height: 100px;
+  }
+form{ margin-top: 100px;}
+.random{
+  border-width: 2px;
+  border-style: double;
+  box-shadow: 1px 1px 10px #808080;
+  background-color: fff;
+  height:auto;
+  width: 90%;
+  }

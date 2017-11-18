@@ -1,0 +1,14 @@
+.all{
+  height: 250px;
+  width: 400px;
+  border: 1px solid red;
+  padding-left: 50px;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+.outer{
+  height: 532px; 
+}
